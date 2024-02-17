@@ -2,4 +2,3 @@ Flask
 numpy
 huggingface_hub
 onnxruntime
-os
